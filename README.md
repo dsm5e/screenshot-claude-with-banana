@@ -57,9 +57,9 @@ The critical design choice: a **local deterministic scaffold** locks layout/text
 
 1. Clone this repo and copy the skill to your Claude Code skills directory:
    ```bash
-   git clone https://github.com/dsm5e/automate-screenshot-claude-with-banana.git
+   git clone https://github.com/dsm5e/screenshot-claude-with-banana.git
    mkdir -p ~/.claude/skills/aso-appstore-screenshots
-   cp -r automate-screenshot-claude-with-banana/skill/* ~/.claude/skills/aso-appstore-screenshots/
+   cp -r screenshot-claude-with-banana/skill/* ~/.claude/skills/aso-appstore-screenshots/
    ```
 
 2. Get a fal.ai API key at <https://fal.ai/dashboard> and export it:
